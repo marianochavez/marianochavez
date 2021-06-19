@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mariano!</h1>
 <h3 align="center">Systems Engineering student, focused on backend development.</h3><br>
 
-<p>🌱 I’m currently learning <strong>Django and Django Rest Framework</strong></p>
+<p>🌱 I’m currently learning <strong>Node.js</strong></p>
 <p>💪🏼 I'm always trying to learn something new</p>
 <p>👨‍💻 Some languages and tools I've learned:</p>
 <ul> 
   <li>Python</li>
   <li>Java</li>
   <li>JavaScript</li>
+  <li>Django</li>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
