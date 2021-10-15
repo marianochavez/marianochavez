@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariano!</h1>
 <h3 align="center">Systems Engineering student, focused on backend development.</h3><br>
 
-- 🌱 I’m currently learning **Node.js**
 - 📫 How to reach me **amarianochavez@gmail.com**
 - 💪🏼 I'm always trying to learn something new
 - ⚡ Fun fact **I play the drums**
