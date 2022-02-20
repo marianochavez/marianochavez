@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariano!</h1>
-<h3 align="center">Systems Engineering student, focused on backend development.</h3><br>
+<h3 align="center">Systems Engineering student</h3><br>
 
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **amarianochavez@gmail.com**
