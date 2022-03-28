@@ -66,8 +66,8 @@
     height="40"
   />
   <img
-    src="./assets/icons/next.svg"
-    style="background-color:white;border-radius: 5px"
+    src="./assets/icons/next-2.svg"
+    style="border-radius: 5px"
     width="40"
     height="40"
   />
