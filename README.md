@@ -1,171 +1,108 @@
-<h1 align="center">Hi 👋, I'm Mariano!</h1>
-<h3 align="center">Systems Engineering student</h3><br>
+# Hi there, I'm Mariano <img src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="70">
 
-- 🌱 I’m currently learning **React**
+<img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" alt="side Image" align="right" width="200"/>
+
+<h3 >Systems Engineering student</h3><br>
+
+- 🕮 I’m currently learning **React**
 - 📫 How to reach me **amarianochavez@gmail.com**
 - 💪🏼 I'm always trying to learn something new
-- ⚡ Fun fact **I play the drums**
+- 🥁 Fun fact **I play the drums**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chavedoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chavedoo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mariano-chavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariano-chavez" height="30" width="40" /></a>
-</p>
+<h3>Connect with me</h3>
+<a href="https://twitter.com/chavedoo" target="blank">
+  <img align="center" src="./assets/icons/twitter-2.svg" alt="chavedoo" height="40" width="40" />
+</a>
+<a href="https://linkedin.com/in/mariano-chavez" target="blank">
+  <img align="center" src="./assets/icons/linkedin-2.svg" alt="chavedoo" height="40" width="40" />
+</a>
+
+<hr/>
   
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <!-- FRONT -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- END FRONT -->
+<h2 align="center">Languages and Tools</h3>
+<div align="center">
+  <img
+    src="./assets/icons/html5.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="./assets/icons/css3.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="./assets/icons/javascript.svg"
+    width="40"
+    height="40"
+  />
+</div>
+<div align="center">
+  <img
+    src="./assets/icons/typescript.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="./assets/icons/node.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="./assets/icons/react.svg"
+    width="40"
+    height="40"
+  />
+</div>
+<div align="center">
+  <img
+    src="./assets/icons/python.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="./assets/icons/django.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="./assets/icons/next.svg"
+    style="background-color:white;border-radius: 5px"
+    width="40"
+    height="40"
+  />
+</div>
+<div align="center">
+  <img
+    src="./assets/icons/docker.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="./assets/icons/git.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="./assets/icons/heroku.svg"
+    width="40"
+    height="40"
+  />
+</div>
 
-  <!-- LANG -->
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- END LANG -->
 
-  <!-- BACK-FW -->
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- END BACK-FW -->
-
-  <!-- DB -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- END DB -->
-
-  <!-- OTHERS -->
-  <a href="https://heroku.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- END OTHERS -->
-</p>
 <hr>
 
-<p align="center">
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=marianochavez&show_icons=true&theme=tokyonight&locale=en"
-    alt="marianochavez"
+<div align="center">
+  <img
+    width="300"
+    src="https://github-readme-stats.vercel.app/api?username=marianochavez&show_icons=true&theme=merko&locale=en&hide=issues,stars,contribs,prs&count_private=true&hide_rank=true&hide_title=true"
   />
-</p>
+    
+</div>
+<div align="center">
+  <img
+    width="300"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianochavez&langs_count=7&theme=merko"
+  />
+</div>
