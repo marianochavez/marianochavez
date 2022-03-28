@@ -19,7 +19,7 @@
 
 <hr/>
   
-<h2 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <div align="center">
   <img
     src="./assets/icons/html5.svg"
@@ -98,8 +98,8 @@
     width="300"
     src="https://github-readme-stats.vercel.app/api?username=marianochavez&show_icons=true&theme=merko&locale=en&hide=issues,stars,contribs,prs&count_private=true&hide_rank=true&hide_title=true"
   />
-    
 </div>
+
 <div align="center">
   <img
     width="300"
