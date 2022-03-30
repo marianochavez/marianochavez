@@ -1,20 +1,23 @@
 # Hi there, I'm Mariano <img src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="70">
 
-<img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" alt="side Image" align="right" width="200"/>
+<img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" align="right" width="200"/>
 
 <h3 >Systems Engineering student</h3><br>
 
-- 🕮 I’m currently learning **React**
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me **amarianochavez@gmail.com**
 - 💪🏼 I'm always trying to learn something new
 - 🥁 Fun fact **I play the drums**
 
 <h3>Connect with me</h3>
+<a href="mailto:amarianochavez@gmail.com" target="_blank">
+  <img align="center" src="./assets/icons/gmail.svg" height="40" width="40" />
+</a>
 <a href="https://twitter.com/chavedoo" target="blank">
-  <img align="center" src="./assets/icons/twitter-2.svg" alt="chavedoo" height="40" width="40" />
+  <img align="center" src="./assets/icons/twitter-2.svg" height="40" width="40" />
 </a>
 <a href="https://linkedin.com/in/mariano-chavez" target="blank">
-  <img align="center" src="./assets/icons/linkedin-2.svg" alt="chavedoo" height="40" width="40" />
+  <img align="center" src="./assets/icons/linkedin-2.svg" height="40" width="40" />
 </a>
 
 <hr/>
