@@ -4,7 +4,7 @@
 
 <h3 >Systems Engineering student</h3><br>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 - 📫 How to reach me **amarianochavez@gmail.com**
 - 💪🏼 I'm always trying to learn something new
 - 🥁 Fun fact **I play the drums**
