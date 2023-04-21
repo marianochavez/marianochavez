@@ -115,13 +115,13 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img
     width="400"
     src="https://github-readme-stats.vercel.app/api?username=marianochavez&show_icons=true&theme=dark&locale=en"
   />
 </div>
-<br/>
+<br/> -->
 <div align="center">
   <img
     width="300"
