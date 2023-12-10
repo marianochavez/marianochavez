@@ -5,7 +5,6 @@
 
 <h3 >Systems Engineering student - Full Stack developer</h3><br>
 
-- 🌱 I’m currently learning **Microservices**
 - 📫 How to reach me **amarianochavez@gmail.com**
 - 💪🏼 I'm always trying to learn something new
 - 🥁 Fun fact **I play the drums**
@@ -24,7 +23,7 @@
   </a>
 </div>
 
-<h3 align="center">Some languages and tools I use</h3>
+<!-- <h3 align="center">Some languages and tools I use</h3>
 <div align="center">
   <img
     src="./assets/icons2/html5.svg"
@@ -69,7 +68,6 @@
   />
 </div>
 <div align="center">
-  <!-- BACKEND -->
   <img
     src="./assets/icons/node.svg"
     width="40"
@@ -115,16 +113,16 @@
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
   <img
     width="400"
     src="https://github-readme-stats.vercel.app/api?username=marianochavez&show_icons=true&theme=dark&locale=en"
   />
 </div>
-<br/> -->
+<br/> 
 <div align="center">
   <img
     width="300"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianochavez&langs_count=7&theme=dark"
   />
-</div>
+</div> -->
